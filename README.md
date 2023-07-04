@@ -6,7 +6,7 @@ Houdini Engine inside Unreal Engine still runs actual Houdini in the background,
 
 Open [SideFX website](https://www.sidefx.com/), log-in using credencials provided by your superviser. Next, proceed to the **Get** menu, **Download** option.
 
-<img width="668" alt="Screenshot_1" src="https://github.com/vsamusenko/BP_HE_guide/assets/54007382/3bd4a5bb-0d9b-481a-8575-104b2ebf0957">
+<img width="668" alt="Screenshot_1" src="https://github.com/vsamusenko/BP_HE_guide/assets/54007382/3bd4a5bb-0d9b-481a-8575-104b2ebf0957?raw=true">
 
 Scroll past installer/launcher options, down to **Production builds** button.
 
