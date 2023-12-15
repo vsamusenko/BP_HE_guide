@@ -72,7 +72,7 @@ If everything went through correctly - we can try to create a Houdini Engine ses
 
 <img width="293" alt="Screenshot_16" src="https://github.com/vsamusenko/BP_HE_guide/assets/54007382/3be95604-a92a-41ef-80fe-b0b0354b108d">
 
-Correct output is a pop-up in the lower left corner of the UE window, stating **Houdini Engine session connected**.
+Correct output is a pop-up in the lower right corner of your display, stating **Houdini Engine session connected**.
 
 <img width="275" alt="Screenshot_17" src="https://github.com/vsamusenko/BP_HE_guide/assets/54007382/7f15ccf3-72a7-47cd-9fea-d68b30f7e9f9">
 
